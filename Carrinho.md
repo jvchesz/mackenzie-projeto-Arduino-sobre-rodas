@@ -1,7 +1,7 @@
 # [Circuitos Elétricos Eletrônicos] 1º sem. 2018
 
 ## Turma 1G
-## Projeto: "Arduino em Rodas"
+## Projeto: "Arduino sobre Rodas"
 ## Integrantes do grupo:
 
 * Felipe Jose Rico Ragazzi 
